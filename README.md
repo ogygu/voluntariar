@@ -1,11 +1,23 @@
-# Voluntariar
+# Voluntariar - Conectando Jovens, ONGs e Instituições de Ensino
 
-Protótipo de front-end da plataforma Voluntariar, que conecta pessoas
-interessadas em voluntariado a ONGs com projetos disponíveis. Implementa as
-5 entidades do modelo lógico do minimundo: `Cadastro_Usuario`,
-`Cadastro_ONG`, `Membro`, `Projetos` e `Voluntariado`.
+## 🎯 Propósito do Sistema
 
-## Estrutura do projeto
+O sistema tem como propósito conectar jovens, ONGs e instituições de ensino por meio de uma plataforma digital acessível e intuitiva, facilitando o acesso à informação sobre projetos sociais, oportunidades de voluntariado e estágios, reduzindo a desigualdade informacional e promovendo a inclusão social e o desenvolvimento profissional, ao mesmo tempo em que fortalece a colaboração entre a comunidade e as organizações, com processos simples, diretos e com maior praticidade possível.
+
+## 📌 Contexto e Problema
+
+O sistema atua em um contexto no qual jovens têm dificuldade de encontrar oportunidades de se voluntariar ou encontrar vagas de estágio e ONGs têm dificuldade de divulgá-las, gerando uma desconexão que complica a solução dos problemas dos supracitados. A plataforma proposta centraliza essas informações, permitindo cadastro de usuários, divulgação de projetos e vagas, além de candidaturas, simplificando processos e facilitando a conexão entre as partes, com o objetivo de ampliar oportunidades e gerar impacto social positivo.
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML5**: Estrutura semântica da aplicação
+- **CSS3**: Estilização com variáveis CSS, Grid Layout, Flexbox e design responsivo
+- **JavaScript (ES6+)**: Lógica da aplicação com módulos ES6 (`import`/`export`)
+- **localStorage**: Persistência de dados no navegador do usuário
+- **Node.js**: Servidor estático para desenvolvimento local (via `npx serve`)
+- **Arquitetura SPA**: Single Page Application com navegação dinâmica entre seções
+
+## 🏗️ Estrutura do Projeto
 
 ```
 voluntariar/
