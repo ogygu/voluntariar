@@ -1,0 +1,9 @@
+{
+  "name": "voluntariar",
+  "version": "1.0.0",
+  "description": "Plataforma que conecta voluntários e ONGs — protótipo front-end.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 5500"
+  }
+}
